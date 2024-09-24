@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Salvador!
 
-<!--
-**SilvaSalvador/silvasalvador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Backend Software Engineer @ [Worten](https://www.worten.pt), one of the leading tech and electronics retailers in Portugal and Spain.
 
-Here are some ideas to get you started:
+I enjoy tackling complex challenges, collaborating on innovative solutions, and continually improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I Do
+- **Backend Development**: Designing and maintaining services to support millions of users.
+- **Tech Stack**: Scala, Akka, Kafka, PostgreSQL, Couchbase, AWS.
+
+### 🌱 About Me
+Curious and driven, I’m always exploring new technologies and concepts. When I'm not coding, you can find me lifting weights or getting my ass kicked in Muay Thai🥊.
+
+### 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/salvadorvsilva/)
+- [Email](mailto:salvadorvilarsilva@gmail.com)
+- [Portfolio](https://yourportfolio.com)
