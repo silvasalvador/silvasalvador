@@ -5,8 +5,8 @@ I'm a Backend Software Engineer @ [Worten](https://www.worten.pt), one of the le
 I enjoy tackling complex challenges, collaborating on innovative solutions, and continually improving my skills.
 
 ### 💻 What I Do
-- **Backend Development**: Designing and maintaining services to support millions of users.
-- **Tech Stack**: Scala, Akka, Kafka, PostgreSQL, Couchbase, AWS.
+- **Backend Development**: Designing and maintaining backend services to support millions of users.
+- **Tech Stack**: Scala, Akka, Kafka, Play, Lagom, PostgreSQL, Couchbase, AWS.
 
 ### 🌱 About Me
 Curious and driven, I’m always exploring new technologies and concepts. When I'm not coding, you can find me lifting weights or getting my ass kicked in Muay Thai🥊.
