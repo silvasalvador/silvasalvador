@@ -15,4 +15,4 @@ Curious and driven, I’m always exploring new technologies and concepts. When I
 - [LinkedIn](https://www.linkedin.com/in/salvadorvsilva/)
 - [Email](mailto:salvadorvilarsilva@gmail.com)
 - [Portfolio](https://salvadorsilva.com)
-- [Resume](https://salvadorsilva.com](https://github.com/silvasalvador/salvador-resume/blob/main/Resume-SalvadorSilva.pdf)
+- [Resume](https://github.com/silvasalvador/salvador-resume/blob/main/Resume-SalvadorSilva.pdf)
